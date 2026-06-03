@@ -1,4 +1,5 @@
-====== Lazarus Webshell Scanner ======
+===== LAZARUS WEB SHELL SCANNER =====
+
 .
 
 🇮🇩 Bahasa Indonesia
@@ -9,7 +10,8 @@ Lazarus Webshell Scanner adalah alat keamanan portabel untuk menemukan file shel
 🇬🇧 English
 Lazarus Webshell Scanner is a portable security tool designed to detect hidden webshell files on web servers. It includes wordlists from SecLists, recursive fuzzing, and proxy support. Available in FREE mode (1 domain, 100 URLs, HTML only) and PREMIUM mode (unlimited access, all features enabled). Ideal for bug bounty hunters and security testers.
 
-===== LAZARUS WEB SHELL SCANNER =====
+.
+
 
 1. Run the file: shell_scanner.exe
 
