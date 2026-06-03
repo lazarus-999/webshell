@@ -1,6 +1,10 @@
 ====== Lazarus Webshell Scanner ======
+.
+
 🇮🇩 Bahasa Indonesia
 Lazarus Webshell Scanner adalah alat keamanan portabel untuk menemukan file shell tersembunyi (webshell) pada server web. Dilengkapi dengan wordlist dari SecLists, fitur recursive fuzhing, dan dukungan proxy. Tersedia mode FREE (1 domain, 100 URL, ekstensi HTML saja) dan PREMIUM (tanpa batasan, semua fitur aktif). Cocok untuk bug bounty hunter dan security tester.
+
+.
 
 🇬🇧 English
 Lazarus Webshell Scanner is a portable security tool designed to detect hidden webshell files on web servers. It includes wordlists from SecLists, recursive fuzzing, and proxy support. Available in FREE mode (1 domain, 100 URLs, HTML only) and PREMIUM mode (unlimited access, all features enabled). Ideal for bug bounty hunters and security testers.
@@ -51,4 +55,3 @@ NOTES:
 For information and license activation:
 - https://github.com/lazarus-999
 - https://t.me/lazarussignals
-=========
